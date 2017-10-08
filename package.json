@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/E-M-Sz/textadventure#readme",
   "dependencies": {
-    "express": "^4.16.1"
+    "express": "^4.16.1",
+    "socket.io": "^2.0.3"
   }
 }
