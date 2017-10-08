@@ -1,0 +1,22 @@
+{
+  "name": "textadventure",
+  "version": "1.0.0",
+  "description": "Simple textadventure",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-M-Sz/textadventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E-M-Sz/textadventure/issues"
+  },
+  "homepage": "https://github.com/E-M-Sz/textadventure#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
